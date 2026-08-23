@@ -84,3 +84,7 @@ Building this project helped me understand:
 - How shells track and change working directories (`getcwd`, `chdir`)
 - Safe string parsing and tokenizing in C
 - Handling environment variables (`getenv("HOME")`) for path expansion
+
+## Author
+
+Built by [Mahtab Alam] as a B.Tech 2nd year project.
