@@ -1,4 +1,4 @@
-# alphashell — A Custom Unix Shell in C
+# Alphashell — A Custom Unix Shell in C
 
 A lightweight Unix-like shell written in C, built to explore process
 management, command parsing, and directory navigation using core Linux
